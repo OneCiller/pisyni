@@ -26,5 +26,9 @@ double product3 = o1 * Y1;
 
 Console.WriteLine(product3);
 
+int quotient = f1 / f2;
+Console.WriteLine(quotient);
 
-
+o1 = 5;
+double quotient2 = f1 / o1;
+Console.WriteLine(quotient2);
