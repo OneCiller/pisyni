@@ -32,3 +32,29 @@ Console.WriteLine(quotient);
 o1 = 5;
 double quotient2 = f1 / o1;
 Console.WriteLine(quotient2);
+
+
+int a = 2;
+int b = 5;
+int c = 4;
+int d = 9;
+
+long product5 = a * b;
+long sum5 = c + d;
+
+Console.WriteLine(product5);
+Console.WriteLine(sum5);
+
+
+int a = 2;
+int b = 8;
+int c = 7;
+int d = 9;
+
+double product5 = a * b;
+double sum5 = c + d;
+double quotient = product5 / sum5;
+
+Console.WriteLine(product5);
+Console.WriteLine(sum5);
+Console.WriteLine(quotient);
